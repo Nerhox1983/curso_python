@@ -9,6 +9,6 @@ n2 = input("Ingrese otro número entero: ")
 for x in range(n1, n2):
     print (x*x)
 
-print "Es todo por ahora"
+print ("Es todo por ahora")
 
 main()
