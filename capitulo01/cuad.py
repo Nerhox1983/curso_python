@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #Un programa sencillo, para calcular cuadrados de números
 def main():
-print "Se calcularán cuadrados de números"
+    print "Se calcularán cuadrados de números"
 
 n1 = input("Ingrese un número entero: ")
 n2 = input("Ingrese otro número entero: ")
