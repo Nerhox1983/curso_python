@@ -1,5 +1,5 @@
 1 #!/usr/bin/env python
-2 """ Un programa sencillo, para calcular cuadrados de números """
+2 #Un programa sencillo, para calcular cuadrados de números
 3
 4 def main():
 5 print "Se calcularán cuadrados de números"
