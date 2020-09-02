@@ -16,5 +16,3 @@ cursor = conn.cursor()
 cursor.execute("Select * from hitos")
 for row in cursor:
     print (f'row = {row}')
-
-
