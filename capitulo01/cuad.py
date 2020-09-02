@@ -7,7 +7,7 @@ n1 = input("Ingrese un número entero: ")
 n2 = input("Ingrese otro número entero: ")
 
 for x in range(n1, n2):
-print x*x
+    print (x*x)
 
 print "Es todo por ahora"
 
