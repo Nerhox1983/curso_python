@@ -2,7 +2,6 @@
 #Un programa sencillo, para calcular cuadrados de números
 def main():
     print ("Se calcularán cuadrados de números")
-
 n1 = int(input("Ingrese un número entero: "))
 n2 = int(input("Ingrese otro número entero: "))
 
