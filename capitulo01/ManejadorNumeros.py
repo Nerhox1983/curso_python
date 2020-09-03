@@ -7,3 +7,6 @@ def OrdenarDosNumerosAscendentemente(numero1, numero2):
         print ("numero1=> ", numero1)
         print ("numero2=> ", numero2)
         print ("auxiliar=> ", auxiliar)
+
+def CalcularReto0202a(a, b, c):
+    return ((b * b) - (4 * a * c)) / (2 * a),
