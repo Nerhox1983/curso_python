@@ -2,9 +2,6 @@
 #variable x en el cuerpo del ciclo for y después que se sale de tal ciclo. Volver a correr tres veces
 #el programa cuad con valores de entrada (3,5), (3,3) y (5,3) respectivamente, y explicar lo que
 #sucede.
-
-
-
 for x in range(n1, n2):
     print ("x", x)
     print ("resultado: ", x*x)
