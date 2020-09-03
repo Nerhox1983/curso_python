@@ -1,3 +1,5 @@
+#Ejercicio 2.1. Aplicando las reglas matemáticas de asociatividad, decidir cuáles de las siguientes
+#expresiones son iguales entre sí:
 a = 10
 b = 100
 c = 1000
