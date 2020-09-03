@@ -1,9 +1,6 @@
 #Ejercicio 2.1. Aplicando las reglas matemáticas de asociatividad, decidir cuáles de las siguientes
 #expresiones son iguales entre sí:
-
-#from STUDIO_PYTHON import ManejadorNumeros
-
-from .STUDIO_PYTHON import ManejadorNumeros
+import ManejadorNumeros
 
 a = 10
 b = 100
