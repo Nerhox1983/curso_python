@@ -1,4 +1,4 @@
-def OrdenarDosNumerosAscendentemente():
+def OrdenarDosNumerosAscendentemente(numero1, numero2):
     auxiliar = 0
     if n1>n2:
         auxiliar = n2
