@@ -5,8 +5,8 @@
 
 
 
-    for x in range(n1, n2):
-        print ("x", x)
-        print ("resultado: ", x*x)
+for x in range(n1, n2):
+    print ("x", x)
+    print ("resultado: ", x*x)
     
-    print ("Es todo por ahora")
+print ("Es todo por ahora")
