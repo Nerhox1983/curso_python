@@ -1,9 +1,9 @@
 def OrdenarDosNumerosAscendentemente(numero1, numero2):
     auxiliar = 0
-    if n1>n2:
-        auxiliar = n2
-        n2 = n1
-        n1 = auxiliar
-        print ("n1=> ", n1)
-        print ("n2=> ", n2)
+    if numero1>numero2:
+        auxiliar = numero2
+        numero2 = numero1
+        numero1 = auxiliar
+        print ("numero1=> ", numero1)
+        print ("numero2=> ", numero2)
         print ("auxiliar=> ", auxiliar)
