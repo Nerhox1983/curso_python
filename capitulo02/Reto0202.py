@@ -10,8 +10,8 @@ resultado1 = FuncionesNumeros02.CalcularReto0201PuntoA(Numero10, Numero100, Nume
 resultado2 = FuncionesNumeros02.CalcularReto0201PuntoB(Numero10, Numero100, Numero1000)
 resultado3 = FuncionesNumeros02.CalcularReto0201PuntoC(Numero10, Numero100, Numero1000)
 resultado4 = FuncionesNumeros02.CalcularReto0201PuntoD(Numero10, Numero100, Numero1000)
-resultado5 = FuncionesNumeros02.CalcularReto0201PuntoE(b)
-resultado6 = FuncionesNumeros02.CalcularReto0201PuntoF(b)
+resultado5 = FuncionesNumeros02.CalcularReto0201PuntoE(Numero100)
+resultado6 = FuncionesNumeros02.CalcularReto0201PuntoF(Numero100)
 
 print ("Resultado1=> ", resultado1)
 print ("Resultado2=> ", resultado2)
