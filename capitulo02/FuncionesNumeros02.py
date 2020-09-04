@@ -25,4 +25,4 @@ def CalcularReto0201PuntoD(a, b, c):
     return (b * b) - (Numero4 * a * c / Numero2 * a)
 
 def CalcularReto0201PuntoE(b):
-    Numero1 / Numero2 * b
+    return Numero1 / Numero2 * b
