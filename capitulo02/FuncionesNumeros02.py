@@ -1,3 +1,7 @@
+Numero1= 1
+Numero2= 2
+Numero4= 4
+
 def OrdenarDosNumerosAscendentemente(numero1, numero2):
     auxiliar = 0
     if numero1>numero2:
@@ -9,10 +13,10 @@ def OrdenarDosNumerosAscendentemente(numero1, numero2):
         print ("auxiliar=> ", auxiliar)
 
 def CalcularReto0201PuntoA(a, b, c):
-    return ((b * b) - (4 * a * c)) / (2 * a),
+    return ((b * b) - (Numero4 * a * c)) / (Numero2 * a),
 
 def CalcularReto0201PuntoB(a, b, c):
-    return (b * b - 4 * a * c) / (2 * a),
+    return (b * b - Numero4 * a * c) / (Numero4 * a),
 
 def CalcularReto0201PuntoC(a, b, c):
-    return b * b - 4 * a * c / 2 * a,
+    return b * b - Numero4 * a * c / Numero2 * a,
