@@ -13,3 +13,6 @@ def CalcularReto0201PuntoA(a, b, c):
 
 def CalcularReto0201PuntoB(a, b, c):
     return (b * b - 4 * a * c) / (2 * a),
+
+def CalcularReto0201PuntoC(a, b, c):
+    return b * b - 4 * a * c / 2 * a,

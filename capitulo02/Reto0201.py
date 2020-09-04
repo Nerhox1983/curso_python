@@ -8,7 +8,7 @@ c = 1000
 
 resultado1 = FuncionesNumeros02.CalcularReto0201PuntoA(a, b, c)
 resultado2 = FuncionesNumeros02.CalcularReto0201PuntoB(a, b, c)
-resultado3 = b * b - 4 * a * c / 2 * a,
+resultado3 = 
 resultado4 =  (b * b) - (4 * a * c / 2 * a)
 resultado5 =  1 / 2 * b
 resultado6 =  b / 2.
