@@ -1,7 +1,7 @@
 Numero1= 1
 Numero2= 2
 Numero4= 4
-
+Numero5= 5
 def OrdenarDosNumerosAscendentemente(numero1, numero2):
     auxiliar = 0
     if numero1>numero2:
